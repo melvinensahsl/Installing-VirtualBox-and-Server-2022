@@ -174,4 +174,4 @@ Click on "Input" and select "Insert Ctrl + Alt + Del" to bring up the login scre
 
 Congratulations we have now successfully installed Windows Server 2022 and Virtual Box!
 
- 👉 [Next Lab 2 : Renaming Windows Server 2022 and Installing Active Directory]
+ 👉 [Next Lab 2 : Renaming Windows Server 2022 and Installing Active Directory](https://github.com/Simokid/Renaming-Server-2022-and-Installing-Active-Directory/tree/main)
